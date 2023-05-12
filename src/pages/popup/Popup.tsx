@@ -189,7 +189,15 @@ export default function Popup(): JSX.Element {
           <li className="text-xs italic text-primary-text opacity-50">
             v 0.1.0
           </li>
-          {/*    <li>O</li> */}
+          <li className="text-white italic tracking-[2px] text-xs">
+            <a
+              href="https://github.com/rickilink/keydrop-free-battle-finder"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Github
+            </a>
+          </li>
         </ul>
       </footer>
     </div>

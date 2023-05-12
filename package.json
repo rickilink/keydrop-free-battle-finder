@@ -1,7 +1,7 @@
 {
   "name": "keydrop-free-battle-finder",
   "displayName": "Keydrop Free Battle Finder",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A keydrop free case battle finder with the free tickets",
   "license": "MIT",
   "scripts": {
