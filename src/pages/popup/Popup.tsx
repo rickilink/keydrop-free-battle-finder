@@ -35,7 +35,7 @@ export default function Popup(): JSX.Element {
 
     const numPlayers = 4;
 
-    const caseCost = 0.4;
+    const caseCost = 0.5;
 
     const Headers = {
       origin: "https://key-drop.com",
@@ -196,6 +196,15 @@ export default function Popup(): JSX.Element {
               rel="noreferrer"
             >
               Github
+            </a>
+          </li>
+          <li className="text-white italic tracking-[2px] text-xs">
+            <a
+              href="https://steamcommunity.com/id/rickilink"
+              target="_blank"
+              rel="noreferrer"
+            >
+              @rickilink
             </a>
           </li>
         </ul>
