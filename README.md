@@ -43,6 +43,7 @@
 <h2>Contributing</h2>
 
 <p>https://steamcommunity.com/id/rickilink</p>
+<p>https://github.com/rickilink/keydrop-free-battle-finder/star</p>
 
 <!-- <p>Include guidelines for contributing to your project, such as how to report bugs or suggest new features.</p> -->
 
