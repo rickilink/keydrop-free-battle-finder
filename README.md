@@ -15,11 +15,24 @@
 
 <h2>Installation</h2>
 
-<!-- <ol>
-  <li>Open Chrome and go to <code>chrome://extensions</code>.</li>
-</ol> -->
+1 - descomprime el archivo keydrop-free-battle-finder.rar
+2 - ve a google chrome - extensiones
+3 - activa el modo desarrollador
+4 - click en "load unpacked" -> selecciona la carpeta dist que descomprimimos antes
 
 <h2>Usage</h2>
+
+1 - ve a keydrop.com  
+2 - click derecho inspeccionar elemento
+3 - busca el apartado Red o "Network" en ingles  
+4 - click en "Fetch/XHR"
+5 - recarga la pagina de keydrop (f5) <- es importante recargar la pagina
+6 - busca el nombre de la petición que comience con Battle?Type....
+7 - en los encabezados o "headers" busca authorization: "Bearer ....." <-- (este es el código que necesita la extension)
+
+8 - copia el código Bearer... y pegalo em la extension
+9 - click en "find case" dentro de la extension y espera a que consiga batalla
+10 - cuando haya conseguido la batalla se activará el boton de abajo que te redirigirá a la batalla
 
 <!-- <p>Explain how to use your extension, and include any screenshots or GIFs to make it easier to understand.</p> -->
 
@@ -28,6 +41,8 @@
 <p>Describe how to get started with development, including any tools or dependencies required.</p> -->
 
 <h2>Contributing</h2>
+
+<p>https://steamcommunity.com/id/rickilink</p>
 
 <!-- <p>Include guidelines for contributing to your project, such as how to report bugs or suggest new features.</p> -->
 
